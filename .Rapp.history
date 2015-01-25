@@ -1,4 +1,0 @@
-makeCacheMatrix <- function(x = matrix(1:4))
-x <- makeCacheMatrix(matrix(1:4, 2))
-x$get()
-xget()
